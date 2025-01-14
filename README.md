@@ -31,7 +31,7 @@ This project is a simulation of phishing attacks using the open-source tool Zphi
 
 ## **Repository Contents**
 - `README.md`: Project overview and objectives.
-- `Demo/`: Step-by-step guide to simulate phishing scenarios. This guide contains example screenshots of Zphisher in action.
+- `ZphisherDemo.pdf/`: Step-by-step guide to simulate phishing scenarios. This guide contains example screenshots of Zphisher in action.
 
 ## **Ethical Considerations**
 - This repository does not endorse or promote unethical hacking.
