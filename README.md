@@ -1,10 +1,10 @@
-# Zphisher-Phishing-Simulation-Project
+# Zphisher-Phishing-Simulation-Lab
 
 ## **Overview**
-This project is a simulation of phishing attacks using the open-source tool Zphisher. The aim is to educate users and organizations about phishing tactics and demonstrate how attackers exploit such methods. By understanding these attacks, individuals can take better precautions and implement effective security measures to protect sensitive information.
+This lab is a simulation of phishing attacks using the open-source tool Zphisher. The aim is to educate users and organizations about phishing tactics and demonstrate how attackers exploit such methods. By understanding these attacks, individuals can take better precautions and implement effective security measures to protect sensitive information.
 
 ## **Disclaimer**
-**This project is for educational purposes only.** It is intended to raise awareness about phishing and improve cybersecurity defenses. Misuse of this tool for malicious purposes is illegal and unethical. The author is not responsible for any misuse of the information provided in this repository.
+**This lab is for educational purposes only.** It is intended to raise awareness about phishing and improve cybersecurity defenses. Misuse of this tool for malicious purposes is illegal and unethical. The author is not responsible for any misuse of the information provided in this repository.
 
 ## **Objectives**
 - Simulate phishing attacks to demonstrate how attackers create convincing fake login pages.
@@ -30,7 +30,7 @@ This project is a simulation of phishing attacks using the open-source tool Zphi
    - Observed how Zphisher captured and logged the credentials for analysis.
 
 ## **Repository Contents**
-- `README.md`: Project overview and objectives.
+- `README.md`: Lab overview and objectives.
 - `ZphisherDemo.pdf/`: Step-by-step guide to simulate phishing scenarios. This guide contains example screenshots of Zphisher in action.
 
 ## **Ethical Considerations**
